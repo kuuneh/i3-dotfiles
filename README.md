@@ -3,6 +3,8 @@ dotfiles for my i3 config (contains nvim, zsh, and other configs.)
 
 For neovim, run :PackerSync to install all the plugins.
 
+For Alacritty, (the best terminal emulator) install "Hack Nerd Font"
+
 ## Prerequisites 
 For Arch Linux, you need yay for some packages.
 
