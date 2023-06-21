@@ -5,7 +5,7 @@ dotfiles for my i3 config (contains nvim, zsh, and other configs.)
                         Install xorg packages.
 (Install everything in the xorg group because it has everything you need)
 
-Arch:
+###Arch:
 ```
 sudo pacman -S xorg
 ```
