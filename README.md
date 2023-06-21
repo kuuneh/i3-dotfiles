@@ -23,4 +23,5 @@ $ sudo apt-get install i3-gaps
 from my knowledge, picom-ibhagwan isn't availiable on anything else other than the AUR, so you'd have to build it.
 ```
 -- For other systems, try to install these packages with your package manager.
+
 -- This should follow a similar structure for the rest of the packages you install.
