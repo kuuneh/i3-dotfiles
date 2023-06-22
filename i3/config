@@ -3,7 +3,7 @@
 # this config is a little unfinished, didn't remove some comments and other things. still works though
 
 
-set $mod Mod6
+set $mod Mod4
 
 # Font for window titles. Will also be used by the bar unless a different font
 # is used in the bar {} block below.
