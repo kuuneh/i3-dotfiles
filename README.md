@@ -14,7 +14,7 @@ For Arch Linux, you need yay for some packages.
 
 ### Arch:
 ```
-$ sudo pacman -S xorg neovim alacritty polybar brightnessctl
+$ sudo pacman -S xorg neovim alacritty polybar brightnessctl feh rofi
 -- If you dont have 13-gaps:
 sudo pacman -S i3-gaps
 --
@@ -23,7 +23,7 @@ $ yay -S i3-gaps-rounded-git
 ```
 ### Debian based systems:
 ```
-sudo apt-get install xorg neovim alacritty polybar brightnessctl
+sudo apt-get install xorg neovim alacritty polybar brightnessctl feh rofi
 -- If you don't have 13-gaps:
 $ sudo apt-get install i3-gaps
 --
