@@ -20,7 +20,7 @@ exec --no-startup-id dex --autostart --environment i3
 exec_always --no-startup-id picom --experimental-backends -b --config ~/.config/picom.conf
 
 # Wallpapers
-exec_always --no-startup-id feh --bg-fill $HOME/Wallpapers/wallpaper1.jpg
+exec_always --no-startup-id feh --bg-fill $HOME/Wallpapers/wallpaper.jpg
 
 ############ i3-gaps - i3-radius #############
 ##############[ GAPS + RADIUS ]###############
