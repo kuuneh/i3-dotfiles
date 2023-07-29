@@ -7,6 +7,8 @@ For neovim, run :PackerSync to install all the plugins.
 
 For Alacritty, (the best terminal emulator) install "Hack Nerd Font"
 
+For feh, make a folder in your home directory named "Wallpapers" and name your wallpaper "wallpaper.jpg"
+
 ## Prerequisites 
 For Arch Linux, you need yay for some packages.
 
