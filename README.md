@@ -9,8 +9,6 @@ For Alacritty, (the best terminal emulator) install "Hack Nerd Font"
 
 For feh, make a folder in your home directory named "Wallpapers" and name your wallpaper "wallpaper.jpg"
 
-i3-gaps has recently merged into i3 itself, so no need to install i3-gaps anymore.
-
 ## Prerequisites 
 For Arch Linux, you need yay for some packages.
 
@@ -21,6 +19,7 @@ For Arch Linux, you need yay for some packages.
 $ sudo pacman -S xorg neovim alacritty polybar brightnessctl feh rofi
 --
 $ yay -S picom-ibhagwan-git
+$ yay -S i3-gaps-rounded-git
 --
 ```
 ### Debian based systems:
