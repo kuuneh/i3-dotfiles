@@ -20,6 +20,7 @@ $ sudo pacman -S xorg neovim alacritty polybar brightnessctl feh rofi
 --
 $ yay -S picom-ibhagwan-git
 --
+```
 ### Debian based systems:
 ```
 sudo apt-get install xorg neovim alacritty polybar brightnessctl feh rofi
