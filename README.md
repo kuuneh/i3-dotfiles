@@ -2,6 +2,7 @@
 dotfiles for my i3 config (contains nvim, zsh, and other configs.)
 
 --- WARNING: i3 may crash when you add all of the dotfiles, and be sure to add all of them at once including prerequisites before restarting i3. ---
+--- ALSO: picom-ibhagwan-git is deprecated, and i forgot how i worked around it so yea good luck (i will update this whenever i come back to arch) ---
 
 For neovim, run :PackerSync to install all the plugins.
 
