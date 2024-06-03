@@ -16,6 +16,6 @@ For feh, make a folder in your home directory named "Wallpapers" and name your w
 Picom - https://github.com/pijulius/picom
 ### Arch:
 ```
-$ sudo pacman -S xorg neovim alacritty polybar brightnessctl feh rofi xclip maim
+$ sudo pacman -S xorg neovim alacritty polybar brightnessctl feh rofi xclip maim zsh
 ```
 
