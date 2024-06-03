@@ -3,7 +3,7 @@
 
 # Taken from kali
 
-source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
+source ~/zsh-autosuggestions.zsh
 
 setopt autocd              # change directory just by typing its name
 #setopt correct            # auto correct mistakes
