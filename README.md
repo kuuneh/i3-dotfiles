@@ -12,6 +12,7 @@ For feh, make a folder in your home directory named "Wallpapers" and name your w
 
 ## Prerequisites 
 **Install packages**
+
 Picom - https://github.com/pijulius/picom
 ### Arch:
 ```
