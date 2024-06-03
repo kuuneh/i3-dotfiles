@@ -1,7 +1,7 @@
 # i3-dotfiles
 dotfiles for my i3 config (contains nvim, zsh, and other configs.)
 
---- WARNING: i3 may crash when you add all of the dotfiles, and be sure to add all of them at once including prerequisites before restarting i3. ---
+--- WARNING: i3 may crash when you add all of the dotfiles, and be sure to add all of them at once including prerequisites before restarting i3.
 
 For neovim, run :PackerSync to install all the plugins.
 
