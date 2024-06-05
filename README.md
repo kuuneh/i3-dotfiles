@@ -5,6 +5,8 @@ dotfiles for my i3 config (contains nvim, zsh, and other configs.)
 
 For neovim, run :PackerSync to install all the plugins.
 
+For polybar, install "Arimo Nerd Font" (on the aur, the package is ttf-arimo-nerd)
+
 For Alacritty, (the best terminal emulator) install "Hack Nerd Font"
 (on the aur, the package is ttf-hack-nerd)
 
