@@ -20,6 +20,7 @@ return require('packer').startup(function(use)
   use 'nvim-lualine/lualine.nvim'
   use 'catppuccin/nvim'
   use 'romgrk/barbar.nvim'
+  use 'andweeb/presence.nvim'
   use 'norcalli/nvim-colorizer.lua'
   use { "catppuccin/nvim", as = "catppuccin" }
   require 'colorizer'.setup()
